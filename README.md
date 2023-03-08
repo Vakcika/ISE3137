@@ -5,7 +5,7 @@ Operating System Personal Repository
 <h3>Week 2</h3>
 <p>Installed Ubuntu Virtual Machine on VMware</p>
 
-<5>Github commands</h5>
+<h5>Github commands</h5>
 <ul>
   <li>sudo apt-get install git-all -y</li>
   <li>cd project_folder</li>
